@@ -2,3 +2,5 @@ I am writing API Automation using Rest Assured
 this belongs to the login-feature branch
 
 this is unfinished stash work
+
+API automation changes added
